@@ -1,3 +1,7 @@
+# Archived 19th April 2020
+See project-perform-mono and project-perform-k8es as replacement projects
+
+
 # Proof of Concept project-perform web application
 
 The functionality in this POC is limited but the application is fully production-ready and very extensible.
